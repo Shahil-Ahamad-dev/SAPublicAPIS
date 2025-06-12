@@ -34,6 +34,3 @@ Welcome to **SA Public APIs** – a curated, ever-expanding collection of **free
 > *(Work in Progress - new features coming soon!)*
 
 ---
-
-## 📁 Project Structure
-
