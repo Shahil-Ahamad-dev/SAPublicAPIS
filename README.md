@@ -4,7 +4,7 @@ Welcome to **SA Public APIs** – a curated, ever-expanding collection of **free
 
 ![Status](https://img.shields.io/badge/Status-Under_Development-orange)
 ![License](https://img.shields.io/github/license/Shahil-Ahamad-dev/SAPublicAPIS)
-![Stars](https://img.shields.io/github/stars/Shahil-Ahamad-dev/SAPublicAPIS?style=social)
+![Stars](https://img.shields.io/github/Shahil-Ahamad-dev/SAPublicAPIS/stargazers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shahil-Ahamad-dev.SAPublicAPIS)
 
 ---
