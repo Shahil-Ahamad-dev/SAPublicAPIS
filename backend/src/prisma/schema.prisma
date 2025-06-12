@@ -1,0 +1,28 @@
+datasource db {
+    url      = env("DATABASE_URL")
+    provider = "mysql"
+}
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+enum USERROLE {
+    USER
+    ADMIN
+    GUEST
+}
+
+model User {
+    id          Int      @id @default(autoincrement())
+    name        String
+    username    String   @unique
+    email       String   @unique
+    password    String?
+    phoneNumber String?
+    isVerified  Boolean  @default(false)
+    createdAt   DateTime @default(now())
+    updatedAt   DateTime @updatedAt
+
+    @@map("users")
+}
