@@ -1,0 +1,4 @@
+export const env = {
+  NEXT_PUBLIC_BACKEND_URI: process.env['NEXT_PUBLIC_BACKEND_URI'],
+  NEXT_PUBLIC_FRONTEND_V1_PORT: process.env['NEXT_PUBLIC_FRONTEND_PORT'],
+};
