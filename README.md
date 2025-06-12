@@ -37,11 +37,3 @@ Welcome to **SA Public APIs** – a curated, ever-expanding collection of **free
 
 ## 📁 Project Structure
 
-```bash
-SAPublicAPIS/
-├── assets/         # Images, icons, styles
-├── data/           # JSON files for APIs
-├── pages/          # HTML pages
-├── scripts/        # JavaScript logic
-├── index.html      # Main entry point
-└── README.md       # You are here
